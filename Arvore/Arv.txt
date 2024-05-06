@@ -1,0 +1,51 @@
+Primeira Questão
+a) Número de nós: 8
+
+b) Altura: 3
+
+c) Nó raiz: H
+
+d) Nós folha: L, M, N, E e J
+
+e) Nós interiores: H, B, F, A, C e I
+
+f) Nós no nível 2: B e F
+
+g) Nós antepassados de E: H, B, A e C
+
+h) Nós descendentes de F: J, E, L e M
+
+Segunda Questão
+a) Impressão em pré-ordem: A B C D E F G H
+
+b) Impressão em pós-ordem: D E C B F G H A
+
+c) Impressão em in-ordem: D C E B A F G H
+
+Quarta Questão
+1. Impressão em pré-ordem:
+
+A B C D E F G H
+
+2. Impressão em pós-ordem:
+
+D E C B F G H A
+
+3. Impressão em in-ordem:
+
+D C E B A F G H
+
+Quinta Questão
+a) Quantidade de valores para manter a árvore balanceada: 11
+
+b) Valores para inserir no nó 15 à sua direita e à sua esquerda:
+
+Direita: 18, 21, 24, 27, 30
+Esquerda: 12, 9, 6, 3, 0
+c) Validação dos valores para inserção: Os valores 4, 9, 12, 18, 53, 58, 62 e 75 podem ser inseridos na árvore sem comprometer o balanceamento da mesma.
+
+d) Valor que não permite o balanceamento: 59
+
+e) Pai do valor 57: 20
+
+f) Pai do valor 20: 15
